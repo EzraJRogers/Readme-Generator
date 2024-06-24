@@ -1,7 +1,8 @@
-# Test Project
+
+# ReadMe Generator
 
 ## Description
-This is a temp description of the project.
+Read me generator so that you don't have to manually make them.
 
 ## Table of Contents
 - [Description](#description)
@@ -13,19 +14,19 @@ This is a temp description of the project.
 - [Questions](#questions)
 
 ## Installation
-Run the command npm i and then node index.js
+Run commands npm i && node index.js
 
 ## Usage
-Follow the questions/inputs given in the command line.
+To use just follow the prompted questions.
 
 ## License
 undefined
 
 ## Contributing
-Me, Myself, and I
+Ezra J Rogers
 
 ## Tests
-Run command npm run to follow tests
+No test instructions
 
 ## Questions
 For additional questions, contact [undefined](https://github.com/undefined) or email [undefined](mailto:undefined).
